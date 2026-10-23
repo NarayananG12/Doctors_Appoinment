@@ -1,0 +1,10 @@
+<resources>
+    <string name="_40s_hospital_logo">40s Hospital logo</string>
+    <string name="_40s_hospital">40s Hospital</string>
+    <string name="your_health_our_priority">Your Health, Our Priority</string>
+    <string name="patient_login">Patient Login</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account_create_account">Don\'t have an account? Create Account</string>
+</resources>
